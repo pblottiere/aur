@@ -1,0 +1,3 @@
+[submodule "pgpointcloud/pgpointcloud"]
+	path = pgpointcloud/pgpointcloud
+	url = ssh://aur@aur.archlinux.org/pgpointcloud.git
